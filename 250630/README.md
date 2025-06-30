@@ -5,7 +5,7 @@
 ---
 
 ### 백준 - 실버4
-- [백준 1755번: 숫자놀이](https://www.acmicpc.net/problem/1755)
+- [백준 1269번: 대칭 차집합](https://www.acmicpc.net/problem/1269)
 
 ### 백준 - 실버1
 - [백준 1564번: 팩토리얼5](https://www.acmicpc.net/problem/1564)
