@@ -1,4 +1,4 @@
-# [Gold IV] 알고스팟 - 1261번 
+# [Gold IV] 알고스팟 - 1261
 
 [문제 링크](https://www.acmicpc.net/problem/1261) 
 
