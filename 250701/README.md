@@ -4,14 +4,14 @@
 
 ---
 
+### 백준 - 실버4
+- [백준 1205번: 등수 구하기](https://www.acmicpc.net/problem/1205)
+
 ### 백준 - 실버2
-- [백준 1780번: 종이의 개수](https://www.acmicpc.net/problem/1780)
+- [백준 1058번: 친구](https://www.acmicpc.net/problem/1058)
 
-### 백준 - 실버1
-- [백준 1697번: 숨바꼭질](https://www.acmicpc.net/problem/1697)
-
-### 백준 - 골드4
-- [백준 1261번: 알고스팟](https://www.acmicpc.net/problem/1261)
+### 백준 - 골드3
+- [백준 14658번: 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)
 
 ## 알.쓰ㄹ 깃허브 이용방법
 1. 매일매일 알고리즘 풀이는 다음 디렉터리에 업로드. AlgorithmSseul/Study_Summer/날짜/문제번호/
